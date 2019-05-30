@@ -12,37 +12,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataScience/numpy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
+        <entry file="file://$PROJECT_DIR$/DeepLearning/Pytorch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            <state>
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,12 +88,24 @@
             <path>
               <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="TimeSeries" type="462c0819:PsiDirectoryNode" />
+              <item name="JupyterFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="JupyterFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLGroupPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="JupyterFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MLGroupPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -131,17 +119,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TimeSeries" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DeepLearning" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DeepLearning" />
+      <recent name="$PROJECT_DIR$/JupyterFiles/DataScience" />
       <recent name="$PROJECT_DIR$/TimeSeries" />
       <recent name="$PROJECT_DIR$/NLP" />
       <recent name="$PROJECT_DIR$/MachineLearning" />
-      <recent name="$PROJECT_DIR$/DataScience" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -473,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559155672004</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Clean Code">
+      <created>1559157873937</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1559157873937</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -487,9 +484,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -499,7 +495,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3180723" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.30843374" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
@@ -703,8 +699,19 @@
       </provider>
       <provider editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataScience/numpy.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -716,17 +723,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/RegressionBasic.py">
+    <entry file="file://$PROJECT_DIR$/CodingPractice/NumpyCoding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JupyterFiles/DataScience/NumpyBasic/.ipynb_checkpoints/Numpy-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JupyterFiles/DataScience/NumpyBasic/Numpy.ipynb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="-9804" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JupyterFiles/DataScience/Numpy.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6635">
+          <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPractice/StringCoding.py">
+    <entry file="file://$PROJECT_DIR$/DeepLearning/Numpy.ipynb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        <state relative-caret-position="-11154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearning/Pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
