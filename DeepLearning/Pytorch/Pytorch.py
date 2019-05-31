@@ -1,3 +1,8 @@
+'''
+
+Author : Dasu Srinivas
+Usage :  Explains basics of pytorch functions and how to use them
+'''
 from __future__ import print_function
 import torch
 import numpy as np
