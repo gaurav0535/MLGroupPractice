@@ -36,3 +36,27 @@ t = sum(v)
 print(t)
 
 
+#source -- >   https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+q=[]
+queries = []
+zero = [0]*(n+1)
+def arrayManipulation(n, queries):    
+    for i in range(len(queries)):
+        q=queries[i]        
+        zero[q[0]-1]+=q[2]
+        zero[q[1]]-=q[2]    
+    return max(accumulate(zero))
+
+
+#source -- > https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/hamiltonian-and-lagrangian/
+
+n = int(input())             # Number of elements of array
+array = [int(i) for i in input().split()]
+def compare(array,val):
+    return (all(val>=x for x in array))
+a_1=array[:]           
+for i in a_1:
+    array.pop(0)
+    if compare(array,i):
+        print(i,end=" ")
+
